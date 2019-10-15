@@ -1,0 +1,9 @@
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\bin\Debug\MyApp.exe
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\obj\Debug\MyApp.exe
+C:\Users\Famille\source\repos\JSCInterpreter\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Famille\source\repos\JSCInterpreter\Debug\MyApp.exe.config
+C:\Users\Famille\source\repos\JSCInterpreter\Debug\MyApp.exe
+C:\Users\Famille\source\repos\JSCInterpreter\Debug\MyApp.pdb
